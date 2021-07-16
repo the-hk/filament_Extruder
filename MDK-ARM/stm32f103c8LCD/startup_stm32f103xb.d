@@ -1,0 +1,1 @@
+stm32f103c8lcd\startup_stm32f103xb.o: startup_stm32f103xb.s
